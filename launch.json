@@ -1,0 +1,9 @@
+"configurations": [
+     {
+"name": "Launch App",
+"program": "${workspaceFolder}/index.js",
+"env": {
+    "PORT": "3001"
+}
+}
+]
